@@ -1,0 +1,6 @@
+django-admin
+django
+celery
+drf_yasg
+rest_framework
+corsheaders
