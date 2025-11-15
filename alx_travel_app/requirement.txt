@@ -1,6 +1,7 @@
-django-admin
-django
+Django
+djangorestframework
+django-environ
+django-cors-headers
+drf-yasg
 celery
-drf_yasg
-rest_framework
-corsheaders
+mysqlclient
